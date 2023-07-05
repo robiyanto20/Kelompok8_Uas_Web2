@@ -13,9 +13,20 @@
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
 </p>
 <p align="center">
-<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
 
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=ROBIYANTO&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
+<p align="center">
+
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=ILHAM%20MAULANA%20CHAKRA%20DWI%20NOTO&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
+<p align="center">
+
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=FLANDILAN%20RUI&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
+<p align="center">
+
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=MUHAMAD%20AZIZUL%20DZIKRI&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
+<p align="center">
 
 
 <hr>
@@ -53,6 +64,12 @@
 
  Tampilan Sistem
 
+
+<hr>
+
+## 312110034 M. AKMAL AL ABDILAH
+
+<hr>
 
 <p>
 Disini saya sebagai ketua kelompok 8 akan menjelaskan cara pembuatan sistem seperti gambar di atas di bagian hosting  sisanya seperti menu dan database akan di jelaskan oleh anggota kelompok dan wakil saya.
