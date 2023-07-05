@@ -449,11 +449,13 @@ Sisa penjelasan nanti di jelaskan oleh rekan satu kelompok saya.
 
 <hr>
 
+
 <hr>
 
 ## Menu laporan
 
 <hr>
+
 
 <p>
 Disini saya sebagai seorang pemograman kelompok 8 akan menjelaskan menu laporan di dalam web hosting yang kami buat.
@@ -476,6 +478,7 @@ Menu "laporan" ini menampilkan semua data dari iuran kas yang telah di pisahkan 
   Cukup Sekian Penjelasan Dari kami kelompok 8 tentang pembuatan sistem iuran kas rt dengan hosting dan fremwork ci4 kurang lebih kami mohon maaf.
   **SELESAI**
   <hr>
+
 
 <div>
 <h2 align="center">Thanks For Reading!!!</h2>
