@@ -17,6 +17,8 @@
 <a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
 
+<hr>
+
 <a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=ROBIYANTO&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
 
@@ -29,6 +31,7 @@
 <a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=MUHAMAD%20AZIZUL%20DZIKRI&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
 
+<hr>
 
 <hr>
 
