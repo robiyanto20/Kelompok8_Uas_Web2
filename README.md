@@ -33,11 +33,15 @@
 
 <hr>
 
+
+
 <hr>
 
 ## Uas Pemograman Web 2 : Sistem Pengelolaan Kas Rt
 
 <hr>
+
+
 
 <hr>
 
@@ -52,6 +56,8 @@
 
 <hr>
 
+
+
 <hr>
 
 ## Link Hosting 1 : https://web2kelompok8.my.id/about 
@@ -60,6 +66,7 @@
 
 <hr>
  
+
  **`Tampilan sistem di web`**
  
 
@@ -75,6 +82,8 @@
 
 <hr>
 
+
+
 <p>
 Disini saya sebagai ketua kelompok 8 akan menjelaskan cara pembuatan sistem seperti gambar di atas di bagian hosting  sisanya seperti menu dan database akan di jelaskan oleh anggota kelompok dan wakil saya.
 </p>
@@ -84,11 +93,15 @@ Disini saya sebagai ketua kelompok 8 akan menjelaskan cara pembuatan sistem sepe
 Saya dua hosting seperti link yang di atas kenapa dua hosting karna satu hosting berbayar cpanel hanya satu bulan saja masa aktifnya sedangkan hosting satu lagi yang geratisan selamannya.
 </p>
 
+
+
 <hr>
 
 ## Cara mengaupload file ci4 di hosting berbayar cpanel
 
 <hr>
+
+
 
 <p>
 1. Kalian masuk akun cpanel kalian
@@ -177,11 +190,15 @@ Sisa penjelasan nanti di jelaskan oleh kawan saya. </p>
 
 <hr>
 
+
+
 <hr>
 
 ## Menu about dan database
 
 <hr>
+
+
 
 <p>
 Disini saya sebagai wakil kelompok 8 akan menjelaskan menu about dan database.
@@ -259,11 +276,15 @@ Sekarang kalian sudah memiliki sudah tau apa itu menu about dan database.
 Sisa penjelasan nanti di jelaskan oleh rekan satu kelompok saya.
 </p>
 
+
+
 <hr>
 
 ## 312110027 ILHAM MAULANA CHAKRA DWI NOTO
 
 <hr>
+
+
 
 <hr>
 
@@ -360,11 +381,14 @@ Sisa penjelasan nanti di jelaskan oleh rekan satu kelompok saya.
 
 <hr>
 
+
 <hr>
 
 ## Menu iuran kas dan database
 
 <hr>
+
+
 
 <p>
 Disini saya sebagai sistem analis kelompok 8 akan menjelaskan menu iuran kas di dalam web hosting yang kami buat dan database.
